@@ -38,7 +38,7 @@ chmod +x prompt_clean.sh
 
 ```bash
 nano ~/.zshrc
-
+``
 
 ```bash
 alias clean="$HOME/path/to/prompt-clean/prompt_clean.sh"
