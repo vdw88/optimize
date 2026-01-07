@@ -26,7 +26,7 @@ It removes unnecessary cache, logs, old packages, Snap revisions, temporary file
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/prompt-clean.git
+git clone https://github.com/vdw88/optimize.git
 cd prompt-clean
 ```
 
