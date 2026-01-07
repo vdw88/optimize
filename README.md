@@ -25,34 +25,34 @@ It removes unnecessary cache, logs, old packages, Snap revisions, temporary file
 
 ### 1️⃣ Clone the repository
 
-```bash
+``bash
 git clone https://github.com/yourusername/prompt-clean.git
 cd prompt-clean
 ``
 
 ## 2️⃣ Make the script executable
 
-```bash
+``bash
 chmod +x prompt_clean.sh
 ``
 
-```bash
+``bash
 nano ~/.zshrc
 ``
 
-```bash
+``bash
 alias clean="$HOME/path/to/prompt-clean/prompt_clean.sh"
 ``
 
-```bash
+``bash
 exec zsh
 ``
 
-```bash
+``bash
 clean
 ``
 
-```bash
+``bash
 #!/bin/bash
 set -e
 
